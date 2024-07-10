@@ -11,7 +11,7 @@ except ImportError as e:
     exit(1)
 
 # Discord webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1260554976426594344/p9zzhHlvrXpHA91Q6iUxaNBgzSWjx8XnQstAo6P_gGZB_5gp8RUXGtBHNL7QzJmJxPqD'
+WEBHOOK_URL = 'REPLACE_THIS_WITH_YOUR_DISCORD_WEBHOOK_URL'
 
 def take_photo():
     try:
